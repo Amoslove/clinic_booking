@@ -14,3 +14,6 @@ A complete MySQL-based database system to manage clinic operations such as appoi
 
    `sql
    SOURCE path/to/clinic_booking.sql;
+
+   ## ERD (Entity Relation Table)
+   ![Clinic Booking ERD](clinic_erd.png)
